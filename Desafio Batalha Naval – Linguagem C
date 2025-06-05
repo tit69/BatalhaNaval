@@ -1,0 +1,27 @@
+# Desafio Batalha Naval – Linguagem C
+
+Trabalho individual da disciplina de Programação – Oceanic Games
+
+## Objetivos
+
+Este projeto tem como objetivos principais:
+
+- Aplicar **vetores** e **matrizes** em C para representar tabuleiros.
+- Utilizar **loops aninhados** para construir e percorrer o tabuleiro.
+- Empregar **estruturas condicionais** dentro de loops para simular **áreas de efeito** de habilidades especiais.
+- Desenvolver lógica e estruturação de código em um contexto prático de jogos.
+
+---
+
+## Contexto
+
+Imagine que você é um desenvolvedor contratado pela Oceanic Games, responsável por implementar a lógica de posicionamento de navios e habilidades especiais em um jogo moderno de Batalha Naval. Seu desafio é usar **vetores**, **matrizes**, **loops** e **condicionais** para representar o jogo e simular ataques estratégicos.
+
+---
+
+## 📁 Estrutura do Projeto
+
+```bash
+BatalhaNaval/
+├── modulo1_vetor.c           # Módulo Novato
+└── README.md                 # Documentação geral
