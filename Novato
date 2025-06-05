@@ -1,0 +1,19 @@
+# Desafio Batalha Naval - Nível Novato
+
+Este repositório contém o código do desafio da disciplina para o nível Novato do jogo Batalha Naval.
+
+## Conteúdo
+
+- `batalha_naval.c`: código fonte em linguagem C que posiciona dois navios no tabuleiro e exibe suas coordenadas.
+
+## Como executar
+
+1 passo. Compile o código usando o compilador gcc:  
+   ```bash
+   gcc batalha_naval.c -o batalha
+
+2 Executar o programa. 
+./batalha    # Linux/macOS  
+batalha.exe  # Windows
+
+##   Desenvolvido por Thiago Mendes
